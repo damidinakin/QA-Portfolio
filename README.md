@@ -1,5 +1,5 @@
 # QA-Portfolio
-# Hi, I'm Damilola 👋
+# Hi, I'm Damilola
 
 ## Aspiring Quality Assurance Tester
 
