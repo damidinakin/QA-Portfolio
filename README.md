@@ -36,8 +36,6 @@ QA-related training certificates and learning achievements.
 * Postman
 * Microsoft Excel
 * Google Workspace
-* Slack
-* Asana
 
 ## Testing Skills
 
